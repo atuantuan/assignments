@@ -102,7 +102,7 @@ namespace SRSDEMO.UI
             sec6 = c4.ScheduleSection("Th", "4:10 - 6:00 PM", "SCI241", 15);
             sec7 = c5.ScheduleSection("F", "4:10 - 6:00 PM", "ARTS25", 40);
 
-            //将Section加入到选课列表中
+            //将Section加入到选课列表
             // Add these to the Schedule of Classes.
 
             scheduleOfClasses.AddSection(sec1);
